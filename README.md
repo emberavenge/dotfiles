@@ -6,8 +6,10 @@ Hey all, Ember here!
 | Apps that I use  |
 | ------------- |
 | Alacritty |
-| Gedit |
 | NeoVim |
 | Ranger |
 | Rofi |
+
+Distro: Pop_OS!
+**WM**: i3
 
