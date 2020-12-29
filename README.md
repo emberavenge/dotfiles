@@ -9,12 +9,18 @@ Hey all, Ember here!
 
 **WM**: *i3*
 
+**Fonts**: *FiraMono Nerd Font*, 
+
 | Apps that I use  |
 | ------------- |
 | Alacritty |
+| Firefox | 
+| Htop | 
 | NeoVim |
+| Nitrogen | 
+| Polybar | 
 | Ranger |
-| Rofi |
+| Rofi | 
 
 
 
