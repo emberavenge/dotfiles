@@ -14,6 +14,7 @@ Hey all, Ember here!
 | Apps that I use  |
 | ------------- |
 | Alacritty |
+| CopyQ | 
 | Firefox | 
 | Htop | 
 | NeoVim |
