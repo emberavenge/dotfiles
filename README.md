@@ -6,6 +6,7 @@ Hey all, Ember here!
 
 
 **Distro**: Pop_OS!
+
 **WM**: i3
 
 | Apps that I use  |
