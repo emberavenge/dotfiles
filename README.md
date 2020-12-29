@@ -9,7 +9,7 @@ Hey all, Ember here!
 
 **WM**: *i3*
 
-**Fonts**: *FiraMono Nerd Font*, 
+**Fonts**: *FiraMono Nerd Font*, *NotoSans*, *Font Awesome*
 
 | Apps that I use  |
 | ------------- |
@@ -19,6 +19,7 @@ Hey all, Ember here!
 | NeoVim |
 | Nitrogen | 
 | Polybar | 
+| Picom |
 | Ranger |
 | Rofi | 
 
