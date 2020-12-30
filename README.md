@@ -9,6 +9,9 @@ Hey all, Ember here!
 
 **WM**: *i3*
 
+**Shell**: *Zsh with the Powerlevel10k theme, auto-suggestions, syntax highlighing*
+
+
 **Fonts**: *FiraMono Nerd Font*, *NotoSans*, *Font Awesome*
 
 | Apps that I use  |
