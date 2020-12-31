@@ -23,6 +23,7 @@ Hey all, Ember here!
 | Htop | 
 | NeoVim |
 | Nitrogen | 
+| Neofetch | 
 | Polybar | 
 | Picom |
 | Ranger |
